@@ -1,0 +1,27 @@
+a,
+a:hover,
+a:link,
+a:active {
+  text-decoration: none;
+}
+
+.header {
+  margin-top: 80px;
+}
+/* card image style */
+.cardImage {
+  height: 200px;
+  width: 100%;
+}
+.card-button {
+  margin-top: 10px;
+}
+.card-container {
+  margin-top: 40px;
+}
+.card-style {
+  box-shadow: 0px 0px 10px -1px #cbcbcb;
+}
+.card-style:hover {
+  box-shadow: 0px 0px 10px -1px #333333;
+}
